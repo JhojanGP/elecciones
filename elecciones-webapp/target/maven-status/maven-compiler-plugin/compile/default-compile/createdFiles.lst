@@ -1,0 +1,4 @@
+org\elecciones\webapp\security\DAOAuthenticationProvider.class
+org\elecciones\webapp\controller\InstitutionController.class
+org\elecciones\webapp\security\SessionDetail.class
+org\elecciones\webapp\controller\ElectionController.class
